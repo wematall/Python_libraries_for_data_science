@@ -1,4 +1,4 @@
-# Python_libraries_for_data_science
+# Python_libraries_for_Data_Science
 для домашних заданий
 
 Numpy
