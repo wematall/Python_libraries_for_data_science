@@ -4,6 +4,6 @@
 Numpy
 Pandas
 
-Обучение с учителем в Scikit-learn
+6. Обучение с учителем в Scikit-learn
 
-Обучение без учителя в Scikit-learn
+8. Обучение без учителя в Scikit-learn
