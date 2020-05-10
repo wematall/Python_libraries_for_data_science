@@ -3,3 +3,7 @@
 
 Numpy
 Pandas
+
+Обучение с учителем в Scikit-learn
+
+Обучение без учителя в Scikit-learn
